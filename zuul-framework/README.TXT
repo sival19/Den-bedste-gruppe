@@ -1,4 +1,4 @@
-lille test
+lille test hej igen
 Project: zuul-with-enums-v2
 Authors: Michael Kolling and David J. Barnes
 
