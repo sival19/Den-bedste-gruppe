@@ -12,6 +12,11 @@ public class Game
         parser = new Parser();
     }
 
+    public static void main(String[] args) {
+        Game mygame = new Game();
+        mygame.play();
+    }
+
 
     private void createRooms()
     {
