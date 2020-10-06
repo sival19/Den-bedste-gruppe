@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T11:10:31.637Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Ypu1NZoFkNij670gfpHM" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T11:13:41.429Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ADaaMQaHXr3Z0BLVS77X" version="13.7.7" type="github">
   <diagram id="djQAj52nOZVOMgwam0Zv" name="Page-1">
     <mxGraphModel dx="1422" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,20 +13,20 @@
         <mxCell id="wAl7Ez-CIgZVK7M6-mDi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAl7Ez-CIgZVK7M6-mDi-2" target="wAl7Ez-CIgZVK7M6-mDi-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-2" value="poor room&lt;br&gt;skrald&lt;br&gt;pers med ussel tøj&lt;br&gt;faldfærdigt&lt;br&gt;beskidt&lt;br&gt;tynd person&lt;br&gt;flere pers end i rig(+børn)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-2" value="poor room&lt;br&gt;skrald&lt;br&gt;pers med ussel tøj&lt;br&gt;faldfærdigt&lt;br&gt;beskidt&lt;br&gt;tynd person&lt;br&gt;flere pers end i rig(+børn)&lt;br&gt;opgave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-60" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="wAl7Ez-CIgZVK7M6-mDi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wAl7Ez-CIgZVK7M6-mDi-3" target="wAl7Ez-CIgZVK7M6-mDi-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-3" value="rich room&lt;br&gt;rich person&lt;br&gt;big bed&lt;br&gt;$$&lt;br&gt;poser med penge&lt;br&gt;Bil&lt;br&gt;swimmingpool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-3" value="rich room&lt;br&gt;rich person&lt;br&gt;big bed&lt;br&gt;$$&lt;br&gt;poser med penge&lt;br&gt;Bil&lt;br&gt;swimmingpool&lt;br&gt;opgave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="-70" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-5" value="Skole&lt;br&gt;socaile klasser&lt;br&gt;går i skole/gå ikke" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-5" value="Skole&lt;br&gt;socaile klasser&lt;br&gt;går i skole/gå ikke&lt;br&gt;opgave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="149" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-6" value="bibliotek&lt;br&gt;bøger for rige&lt;br&gt;bøger for fattige" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-6" value="bibliotek&lt;br&gt;bøger for rige&lt;br&gt;bøger for fattige&lt;br&gt;opgave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wAl7Ez-CIgZVK7M6-mDi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAl7Ez-CIgZVK7M6-mDi-7" target="wAl7Ez-CIgZVK7M6-mDi-2">
           <mxGeometry relative="1" as="geometry">
@@ -45,11 +45,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-7" value="station&lt;br&gt;1.st class low class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-7" value="station&lt;br&gt;1.st class low class&lt;br&gt;boolean = rum/ingen &amp;lt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-8" value="restaurant&lt;br&gt;for rige/for fattige" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-8" value="restaurant&lt;br&gt;for rige/for fattige&lt;br&gt;opgave" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wAl7Ez-CIgZVK7M6-mDi-17" value="GAME OVER SCREEN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-190" width="120" height="60" as="geometry" />
@@ -66,7 +66,7 @@
             <mxPoint x="370" y="251.01999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-31" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wAl7Ez-CIgZVK7M6-mDi-6">
+        <mxCell id="wAl7Ez-CIgZVK7M6-mDi-31" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wAl7Ez-CIgZVK7M6-mDi-7" target="wAl7Ez-CIgZVK7M6-mDi-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="220" as="sourcePoint" />
             <mxPoint x="490" y="170" as="targetPoint" />
